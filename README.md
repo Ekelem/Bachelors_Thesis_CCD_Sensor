@@ -4,8 +4,10 @@ Bakalárska práca VUT FIT, ROZŠIŘUJÍCÍ MODUL S CCD SENZOREM PRO VÝUKOVÝ K
 # Schémy
 
 [Main](https://github.com/Ekelem/Bachelors_Thesis/blob/master/docs/ccdmodule.pdf)
-[Image Sensor](https://github.com/Ekelem/Bachelors_Thesis/blob/master/docs/ccdmodule.pdf)
-[Power Supply](https://github.com/Ekelem/Bachelors_Thesis/blob/master/docs/ccdmodule.pdf)
+
+[Image Sensor](https://github.com/Ekelem/Bachelors_Thesis/blob/master/docs/ImageSensor-Sheet5C7E7D75.pdf)
+
+[Power Supply](https://github.com/Ekelem/Bachelors_Thesis/blob/master/docs/PowerSupply-Sheet5C7CB2BF.pdf)
 
 # Preview
 
